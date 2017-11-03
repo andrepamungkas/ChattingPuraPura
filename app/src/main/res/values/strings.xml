@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chatting Pura-Pura</string>
+
+    <string name="title_tambah_chat">Tambah respon chat baru</string>
+
+    <string name="nama">Nama Pengguna</string>
+    <string name="konten">Konten Chat</string>
+
+    <string name="action_kirim">Kirim Pesan</string>
+    <string name="action_tambah">+</string>
+</resources>
